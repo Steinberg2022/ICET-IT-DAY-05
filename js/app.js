@@ -87,3 +87,4 @@ let contries = [
 
 console.log(contries);
 
+console.log(contries[0].places[0].name);
